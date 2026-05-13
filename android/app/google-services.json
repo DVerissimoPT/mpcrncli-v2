@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261650329624",
+    "firebase_url": "https://mpcrn-2fe0c.firebaseio.com",
+    "project_id": "mpcrn-2fe0c",
+    "storage_bucket": "mpcrn-2fe0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261650329624:android:12c46369ea4f69dfa9136d",
+        "android_client_info": {
+          "package_name": "com.mpcrncli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261650329624-tfe01jgd1i75lgrt38lhspt0de7e3sil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpcrncli",
+            "certificate_hash": "2c9097e5e60cea37d496cc0719971ef157e8eede"
+          }
+        },
+        {
+          "client_id": "261650329624-7qv264ht8v3kltiukoddiqnosje2bmuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbUtvcYG3ot-adFUC6Ny9p6l3KwA0LGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261650329624-7qv264ht8v3kltiukoddiqnosje2bmuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
